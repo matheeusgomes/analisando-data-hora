@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+        body {
+            font: 12pt Arial;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: 'Lobster', cursive;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        button {
+            font-size: 12pt;
+            padding: 30px;
+        }
